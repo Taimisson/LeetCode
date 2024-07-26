@@ -5,11 +5,11 @@ https://neetcode.io/problems/duplicate-integer
 
 Time Complexity: O(n²) / Space Complexity: O(1)
 
-Using sort:
+### Using sort:
 
 Time Complexity: O(nlogn) / Space Complexity: 0(1)
 
-Using HashSet:
+### Using HashSet:
 
 Time Complexity: O(n) / Space Complexity: O(n)
 
@@ -29,6 +29,6 @@ public:
 };
 ```
 
-## Video solution
+### Video solution
 https://www.youtube.com/watch?v=3OamzN90kPg
 
