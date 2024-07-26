@@ -3,6 +3,12 @@ Easy - Given an integer array nums, return true if any value appears more than o
 
 https://neetcode.io/problems/duplicate-integer
 
+Time Complexity: O(n²) / Space Complexity: O(1)
+
+Using sort:
+
+Time Complexity: O(nlogn) / Space Complexity: 0(1)
+
 # Solution
 ```
 class Solution {
