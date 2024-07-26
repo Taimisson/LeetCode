@@ -9,6 +9,10 @@ Using sort:
 
 Time Complexity: O(nlogn) / Space Complexity: 0(1)
 
+Using HashSet:
+
+Time Complexity: O(n) / Space Complexity: O(n)
+
 # Solution
 ```
 class Solution {
